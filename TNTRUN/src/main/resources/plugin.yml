@@ -1,0 +1,6 @@
+name: TNTRUN
+main: org.gti.minecraft.tntrun.Main
+version: 1.0
+author: Seif-Gti
+website: www.seif.tk
+description: A custom tntrun game plugin for this server
